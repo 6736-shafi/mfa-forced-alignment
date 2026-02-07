@@ -740,27 +740,27 @@ Actual: [du-KA-kis] (similar but not perfect)
 
 ### 11.2 Assignment Requirements Fulfilled
 
-✅ **1. MFA Environment Setup**: Successfully installed and configured MFA with conda
+**1. MFA Environment Setup**: Successfully installed and configured MFA with conda
 
-✅ **2. Data Preparation**: Organized 6 audio/transcript pairs into MFA-compatible corpus
+**2. Data Preparation**: Organized 6 audio/transcript pairs into MFA-compatible corpus
 
-✅ **3. Model Selection**: Used english_us_arpa acoustic model and dictionary
+**3. Model Selection**: Used english_us_arpa acoustic model and dictionary
 
-✅ **4. Forced Alignment**: Generated TextGrid files with word and phoneme boundaries
+**4. Forced Alignment**: Generated TextGrid files with word and phoneme boundaries
 
-✅ **5. Output Analysis**: Inspected alignments in Praat, identified precise temporal boundaries
+**5. Output Analysis**: Inspected alignments in Praat, identified precise temporal boundaries
 
-✅ **6. OOV Handling**:
+**6. OOV Handling**:
    - Identified 9 OOV words
    - Generated G2P pronunciations
    - Created manual specifications for numbers
    - Re-ran alignment with augmented dictionary
 
-✅ **7. Documentation**: Comprehensive README with setup instructions and examples
+**7. Documentation**: Comprehensive README with setup instructions and examples
 
-✅ **8. Comparative Analysis**: Before/after OOV quality metrics comparison
+**8. Comparative Analysis**: Before/after OOV quality metrics comparison
 
-✅ **9. Deliverables**:
+**9. Deliverables**:
    - GitHub repository with all code and outputs
    - TextGrid files (before and after OOV)
    - Detailed technical report (this document)

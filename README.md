@@ -64,14 +64,14 @@ Phonemes:
 
 ## Features
 
-✅ Complete MFA setup and installation guide
-✅ Automated data preparation pipeline
-✅ Out-of-Vocabulary (OOV) word handling using G2P models
-✅ Before/after OOV comparison analysis
-✅ TextGrid output generation for Praat visualization
-✅ Alignment quality metrics and reporting
-✅ Reproducible automation scripts
-✅ Comprehensive documentation
+Complete MFA setup and installation guide
+Automated data preparation pipeline
+Out-of-Vocabulary (OOV) word handling using G2P models
+Before/after OOV comparison analysis
+TextGrid output generation for Praat visualization
+Alignment quality metrics and reporting
+Reproducible automation scripts
+Comprehensive documentation
 
 ## Installation
 
@@ -267,12 +267,12 @@ bash run_mfa_alignment.sh
 ```
 
 **This script automatically:**
-1. ✅ Prepares corpus from raw audio/transcripts
-2. ✅ Downloads required MFA models
-3. ✅ Validates corpus and identifies OOV words
-4. ✅ Runs initial alignment (before OOV handling)
-5. ✅ Generates G2P pronunciations for OOV words
-6. ✅ Runs final alignment (after OOV handling)
+1. Prepares corpus from raw audio/transcripts
+2. Downloads required MFA models
+3. Validates corpus and identifies OOV words
+4. Runs initial alignment (before OOV handling)
+5. Generates G2P pronunciations for OOV words
+6. Runs final alignment (after OOV handling)
 
 ## Handling Out-of-Vocabulary Words
 
