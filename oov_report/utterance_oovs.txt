@@ -1,0 +1,3 @@
+F2BJRLP3, corpus: 0.0-30.7068125: 3, 0, 0,  , 3, 5,  , 8, 0, 0
+F2BJRLP2, corpus: 0.0-28.6474375: 1, 9, 7, 1,  , d, u, k, a, k, i, s,  , m, a, f, f, y,  , p, o, l, i, t, i, c, i, z, e
+F2BJRLP1, corpus: 0.0-25.309125: d, u, k, a, k, i, s,  , m, e, l, n, i, c, o, v, e,  , w, b, u, r

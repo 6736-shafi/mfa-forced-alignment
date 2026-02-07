@@ -1,0 +1,10 @@
+name: mfa
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - montreal-forced-aligner>=2.0.0
+  - pip
+  - pip:
+    - praat-parselmouth  # Optional: for Python-based Praat analysis

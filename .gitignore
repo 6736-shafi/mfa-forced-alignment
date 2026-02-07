@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+mfa_env/
+.env
+
+# MFA cache and temporary files
+*.tmp
+*.log
+
+# Conda
+.conda/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Large files (keep descriptions, not binaries)
+# Uncomment below if you want to exclude wav files from repo
+# wav/*.wav
